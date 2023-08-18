@@ -8,7 +8,6 @@ const initialState = {
 
 const url = 'http://127.0.0.1:3000/api/v1/greetings';
 
-
 export const getGreeting = createAsyncThunk('greeting/fetchgreeting', async () => {
   const response = await fetch(`${url}`);
   const data = await response.json();
