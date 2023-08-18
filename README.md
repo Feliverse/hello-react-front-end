@@ -1,8 +1,93 @@
-# Getting Started with Create React App
+<a name="readme-top"></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
 
-## Available Scripts
+  <h3><b>Hello React Frontend</b></h3>
+  <h3><b>Hello React Frontend - React & Redux Microverse Project </b></h3>
+
+</div>
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+
+- [🧑🏻‍💻 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Available Scripts](#available-scripts)
+  - [Clone](#clone)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#faq)
+- [📝 License](#license)
+
+# 📖 Hello React Frontend - React & Redux Microverse Project Module 6<a name="about-project"></a>
+
+> Hello React Frontend React & Redux App developed with Nodejs, Html, Css, Js, Webpack, React and Redux
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://en.wikipedia.org/wiki/HTML">Html</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/CSS">Css</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/JavaScript">Vanilla Javascript</a></li>
+    <li><a href="https://webpack.js.org/">Webpack</a></li>
+    <li><a href="https://react.org/">React</a></li>
+    <li><a href="https://redux.js.org/">Redux</a></li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- **Random Greeting Page**
+- **Routing with React Route**
+- **API connection using Redux Toolkit AsyncThunk**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<br/>
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and use as a template for your own portafolio site, follow these steps.
+
+Go to the following Repo to get the Backend version with Ruby on Rails:
+
+<a>https://github.com/chelobotix/hello-rails-back-end</a>
+
+To get a local copy up and use as a template, follow these steps.
+
+### Clone <a name="clone"></a>
+
+Clone this repository to your desired folder:
+
+```sh
+  https://github.com/Feliverse/hello-react-front-end
+```
+
+Clone the Backend - Ruby on Rails repository to your desired folder:
+
+```sh
+  https://github.com/Feliverse/hello-rails-back-end
+```
+
+To install the necessary dependencies, you should run:
+
+### `npm install`
+
+## 🤖 Available Scripts <a name="available-scripts"></a>
 
 In the project directory, you can run:
 
@@ -33,38 +118,58 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<!-- AUTHOR -->
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 👥 Author <a name="authors"></a>
 
-## Learn More
+👤 **Felipe Haybar**
+🇧🇴 Bolivia 💓
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- GitHub: [@Feliverse](https://github.com/Feliverse)
+- Twitter: [@FelipeHaybar](https://twitter.com/FelipeHaybar)
+- LinkedIn: [FelipeHaybar](https://linkedin.com/in/FelipeHaybar)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Code Splitting
+## 🔭 Future Features <a name="future-features"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- [ ] **Styling**
 
-### Analyzing the Bundle Size
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 🤝 Contributing <a name="contributing"></a>
 
-### Making a Progressive Web App
+Contributions, issues, and feature requests are welcome!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Advanced Configuration
+## ⭐️ Show your support <a name="support"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+If you like this project please let me know
 
-### Deployment
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-### `npm run build` fails to minify
+My mother. Let's play until the end together ❤️ with 🧠
+<br/>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ❓ FAQ <a name="faq"></a>
+
+- **Is there any restriction to adapting the page to other porpuse??**
+
+  - No problem.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](<a href="./licence">License</a>) licensed.
+
+<a href="./licence">License</a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
